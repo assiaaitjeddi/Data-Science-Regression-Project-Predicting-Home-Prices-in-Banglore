@@ -11,7 +11,6 @@ The goal of this project is to develop a machine learning model that can predict
 2. **Feature Engineering:** Transforming and creating new features that can better represent the factors influencing house prices in Bangalore.
 3. **Model Construction:** Selection and training of regression models on cleaned and prepared data.
 4. **Model Evaluation:** Using appropriate metrics to evaluate model performance and selecting the best model for price prediction.
-5. **Model Deployment:** Preparation of the final model to be used in a real-time application or system to predict house prices in Bangalore.
 
 ## Conclusion
 This project aims not only to develop a predictive model but also to provide insights into the Bangalore real estate market, which can be valuable to various stakeholders. By applying data science and machine learning techniques, we aspire to demonstrate how technology can be used to make the real estate market more transparent and accessible.
